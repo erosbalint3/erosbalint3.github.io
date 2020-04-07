@@ -1,0 +1,72 @@
+header{
+  margin-top: 0px;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+  background-image: url("http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");
+  width: 90%;
+  height: 400px;
+  font-family: 'Baloo Thambi 2', cursive;
+  position: absolute;
+  top: 0px;
+  left: 5%;
+}
+.kisebb-cim{
+  position: relative;
+  top: 250px;
+  text-align: left;
+}
+.nagyobb-cim{
+  position: relative;
+  top: 190px;
+  text-align: left;
+  font-size: 50px;
+}
+div{
+  width: 55%;
+  margin: auto;
+}
+main{
+  font-family: 'Baloo Thambi 2', cursive;
+  position: relative;
+  top: 450px;
+  width: 700px;
+  margin:auto;
+  font-size: 19px;
+}
+.capital{
+  text-transform: uppercase;
+}
+ul{
+  list-style-type: square;
+}
+blockquote{
+  background-color: #484a4a;
+  color: white;
+  padding: 20px;
+  font-size: 50px;
+  text-align: left;
+  padding-top: 25px;
+  padding-bottom: 50px;
+  width: 850px;
+  position: relative;
+  left: -60px;
+  font-family: 'IM Fell French Canon SC', serif;
+  line-height: 30px;
+  
+}
+h4{
+  line-height: 0;
+
+}
+hr{
+  height: 3px;
+  background-color: black;
+  border: none;
+}
+.quote{
+  font-size: 200px;
+  font-weight: normal;
+  position: relative;
+  top: 50px;
+}
